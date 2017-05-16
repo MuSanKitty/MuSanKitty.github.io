@@ -1,5 +1,11 @@
-/* js from flat-ui-login */
+/* Slick JS   http://kenwheeler.github.io/slick/*/
+$(document).ready(function(){
+  $('.featuredFilth').slick({
 
+  })
+})
+
+/* js from flat-ui-login */
 $('input[type="submit"]').mousedown(function(){
   $(this).css('background', '#2ecc71');
 });
